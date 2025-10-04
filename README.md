@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 - 👋 Hi! I’m **Murilo Ruas Lucena** — developer into **programming, technology, and innovation**.  
-- 🧰 Stack: **HTML, CSS, PHP, Python, C#, Java, MySQL/SQL**.  
+- 🧰 Stack: **HTML, CSS, PHP, Python, C#, Java,Js, Ts, MySQL/SQL**.  
 - 🌍 Languages: **Portuguese (native)**, **English (advanced)**, learning **French** (TCF 2026).  
 - 📱 Learning: **iOS (Swift)**.  
 - 🎮 Exploring: **2D/3D game development**.  
