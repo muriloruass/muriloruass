@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 - 👋 Hi! I’m **Murilo Lucena**, begginer and motivated developer into **programming, technology, and innovation**.  
-- 🧰 Stack: **HTML, CSS, Js, Ts,Python, Java and SQL.  
+- 🧰 Stack: **HTML, CSS, Js, Ts,Python, Java and SQL**.  
 - 🌍 Languages: **Portuguese (native)**, **English (fluent)**, learning **French** (TCF 2026).  
 - 🔎 Interests: **innovation events**, tech launches, product reviews.  
 - 🧠 Style: **clean design**, **practical engineering**,software that’s **simple, fast, and maintainable**.  
