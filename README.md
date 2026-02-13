@@ -1,10 +1,8 @@
 ## 💫 About Me
 
-- 👋 Hi! I’m **Murilo Ruas Lucena**, begginer and motivated developer into **programming, technology, and innovation**.  
-- 🧰 Stack: **HTML, CSS, PHP, Python, C#, Java,Js, Ts, MySQL/SQL**.  
+- 👋 Hi! I’m **Murilo Lucena**, begginer and motivated developer into **programming, technology, and innovation**.  
+- 🧰 Stack: **HTML, CSS, Js, Ts,Python, Java and SQL.  
 - 🌍 Languages: **Portuguese (native)**, **English (fluent)**, learning **French** (TCF 2026).  
-- 📱 Currently Learning: **iOS (Swift) and Android**.  
-- 🎮 Exploring: **2D/3D game development, AR/VR and IA**.  
 - 🔎 Interests: **innovation events**, tech launches, product reviews.  
 - 🧠 Style: **clean design**, **practical engineering**,software that’s **simple, fast, and maintainable**.  
 - 🎯 Free time: **gaming**, **quick prototypes**, **side projects**, and **learning**.
